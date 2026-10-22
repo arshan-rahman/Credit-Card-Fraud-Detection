@@ -30,6 +30,3 @@ The project uses a harmonized fraud dataset containing transaction features, tra
 
 ## Important Note
 This is an educational project. Predictions are estimates and should not be used to make real-world financial decisions.
-
-## Author
-Add your name and professional links here.
